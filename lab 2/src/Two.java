@@ -28,6 +28,7 @@ public class Two {
         c1.radius = 7;
         area_ans = c1.area();
         cir_ans = c1.cir();
+        System.out.println(cir_ans);
 
         System.out.println(area_ans + " " + cir_ans);
     }
