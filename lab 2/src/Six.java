@@ -1,3 +1,15 @@
+/*
+* 6. Write a Book Class
+Create a Book class with:
+• Attributes: title, author, and price.
+• Add two constructors:
+• Default constructor to initialize attributes with default values.
+• Parameterized constructor to initialize attributes with user-provided values.
+Print the book details for objects created using both constructors.
+Expected Outcome:
+Understand constructor overloading and the difference between default and parameterized
+constructors.
+* */
 
 import java.util.Scanner;
 

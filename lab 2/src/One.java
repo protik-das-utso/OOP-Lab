@@ -1,3 +1,14 @@
+/*
+* 1. Create a Student Class
+Write a program to create a Student class with the following attributes: name, ID, and CGPA.
+Add methods to:
+• Input student details.
+• Display the details of the student.
+Expected Outcome:
+Students will practice creating a class, defining attributes, and using methods to manipulate
+class data.
+* */
+
 import java.util.Scanner;
 
 class Student {

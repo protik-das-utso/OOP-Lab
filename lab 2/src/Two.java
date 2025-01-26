@@ -1,4 +1,14 @@
-import java.beans.ConstructorProperties;
+/*
+* 2. Define a Circle Class
+Create a Circle class with:
+• Attribute: radius.
+• Methods to calculate the area and circumference of a circle.
+Take the radius as input from the user and display the calculated area and circumference.
+Expected Outcome:
+Understand how to define attributes, methods, and perform calculations in a class.
+* */
+
+
 import java.util.Scanner;
 import static java.lang.Math.pow;
 

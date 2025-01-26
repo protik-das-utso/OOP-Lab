@@ -1,3 +1,15 @@
+/*
+* 5. Define a Rectangle Class
+Create a Rectangle class with:
+• Attributes: length and width.
+• Methods to:
+• Calculate and return the area.
+• Calculate and return the perimeter.
+Test the class by creating objects with different dimensions.
+Expected Outcome:
+Understand the use of methods to perform calculations and return values.
+* */
+
 
 import java.util.Scanner;
 

@@ -1,3 +1,15 @@
+/*
+* 8. Build an Employee Class
+Develop an Employee class with:
+• Attributes: employeeID, name, and salary.
+• Methods to:
+• Set the employee details.
+• Calculate a bonus (10% of the salary) and return the total salary.
+Test the class by creating objects and displaying the total salary.
+Expected Outcome:
+Understand how to implement methods with calculations based on class attributes.
+* */
+
 import java.util.Scanner;
 
 class Employee {

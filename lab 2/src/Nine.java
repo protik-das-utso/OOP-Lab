@@ -1,3 +1,15 @@
+/*
+* 9. Design a Triangle Class
+Create a Triangle class with:
+• Attributes: sideA, sideB, and sideC.
+• Methods to:
+• Calculate and return the perimeter.
+• Check if the triangle is valid (sum of any two sides > the third side).
+Test the class by taking side lengths as input and verifying its validity.
+Expected Outcome:
+Understand attribute validation and conditional logic within methods.
+* */
+
 import java.util.Scanner;
 
 class Triangle {

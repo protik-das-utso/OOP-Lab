@@ -1,3 +1,15 @@
+/*
+* 7. Create a Person Class
+Write a program to define a Person class with:
+• Attributes: name and age.
+• Methods:
+• A method to calculate the year of birth based on the current year.
+• A method to display the person’s details.
+Test the class by creating objects and calling the methods.
+Expected Outcome:
+Use methods to process data and return calculated results.
+* */
+
 import java.util.Scanner;
 
 class Person {

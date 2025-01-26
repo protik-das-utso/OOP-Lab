@@ -1,3 +1,12 @@
+/*
+* 10. Create a TemperatureConverter Class
+Write a TemperatureConverter class with:
+• Methods to:
+• Convert Celsius to Fahrenheit.
+• Convert Fahrenheit to Celsius.
+Take user input for temperature and the desired conversion, then display the result.
+* */
+
 import java.util.Scanner;
 
 class TemperatureConverter {

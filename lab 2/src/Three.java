@@ -1,3 +1,15 @@
+/*
+* 3. Develop a BankAccount Class
+Create a BankAccount class with:
+• Attributes: accountNumber, accountHolderName, and balance.
+• Methods to:
+• Deposit an amount.
+• Withdraw an amount (check if sufficient balance is available).
+• Display the current balance.
+Expected Outcome:
+Students will learn about methods interacting with attributes and validating data.
+* */
+
 import java.util.Scanner;
 
 class BankAccount {

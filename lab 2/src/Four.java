@@ -1,3 +1,13 @@
+/*
+* 4. Create a Car Class
+Design a Car class with:
+• Attributes: brand, model, year, and price.
+• Method: displayDetails() to display all car information.
+Instantiate two Car objects with different data and call the displayDetails() method for each.
+Expected Outcome:
+Practice creating multiple objects of a class and invoking their methods.
+* */
+
 import java.util.Scanner;
 
 class Car {
